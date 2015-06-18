@@ -23,7 +23,7 @@ import javax.swing.JComponent;
  * selected, observers are notified with selected part of screen as new image in
  * source.
  * 
- * @author Ivan
+ * @author irelic
  *
  */
 public class SelectableTranslucentPanel extends JComponent implements

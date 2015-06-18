@@ -22,7 +22,7 @@ import javax.swing.SwingUtilities;
 /**
  * Represents translucent screenshotter graphics interface.
  * 
- * @author Ivan
+ * @author irelic
  *
  */
 public class TranslucentScreenshotterMainWindow extends TranslucentFrame {

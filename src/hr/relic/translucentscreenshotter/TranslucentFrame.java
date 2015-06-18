@@ -7,7 +7,7 @@ import javax.swing.*;
 /**
  * Translucent frame for adding components.
  * 
- * @author Ivan
+ * @author irelic
  * 
  */
 public class TranslucentFrame extends JFrame {

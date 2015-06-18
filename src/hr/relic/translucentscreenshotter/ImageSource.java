@@ -5,7 +5,7 @@ import java.awt.image.BufferedImage;
 /**
  * Represents image source for observing.
  * 
- * @author Ivan
+ * @author irelic
  *
  */
 public interface ImageSource {

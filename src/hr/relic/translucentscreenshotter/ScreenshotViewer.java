@@ -24,7 +24,7 @@ import javax.swing.JScrollPane;
  * Represents screenshot viewer in which user can do several operations with
  * screenshot.
  * 
- * @author Ivan
+ * @author irelic
  *
  */
 public class ScreenshotViewer extends JFrame {
